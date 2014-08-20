@@ -1,6 +1,6 @@
-File Name		Language	Description
+File Name		Language		Description
 ========================================================================================
-TIMIT	 		Matlab with HTK	speech recognition system created using TIMIT
-SpeechRecognition\	Matlab with HTK	speech recognition system created using ANN
-AuroraEXE\		Perl with HTK	speech recognition system created using AURORA4 
-					dp_main_v1 is the main function
+TIMIT	 		Matlab with HTK		ASR system created using TIMIT
+SpeechRecognition\	Matlab with HTK		ASR system created using ANN
+AuroraEXE\		Perl with HTK		ASR system created using AURORA4 
+						dp_main_v1 is the main function
