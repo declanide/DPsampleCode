@@ -7,3 +7,5 @@ TIMIT	 		Matlab with HTK		ASR system created using TIMIT
 SpeechRecognition\	Matlab with HTK		ASR system created using ANN
 AuroraEXE\		Perl with HTK		ASR system created using AURORA4 
 						dp_main_v1 is the main function
+
+.rar files can be uncompressed using 7-zip (free software)
