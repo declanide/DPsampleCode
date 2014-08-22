@@ -10,4 +10,3 @@ Aurora4\		Perl with HTK		ASR system created using AURORA4
 Notes:
 1) SpeechRecognition\	.zip files can be uncompressed using 7-zip (free software). Please uncompress the Train.zip and Test.zip in the folder SpeechRecognition\.
 2) Aurora4\		double click exe.bat can run the code. go_flat_cross.pl is the main function
-
